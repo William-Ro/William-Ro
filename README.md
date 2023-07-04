@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Rodriguez</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🌱 I’m currently learning **Laravel, Tailwind, Figman, Postman**
 
